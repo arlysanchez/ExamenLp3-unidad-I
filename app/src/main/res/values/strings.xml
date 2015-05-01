@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExamenLp3-unidad-I</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="herramientas">herramientas</string>
+    <string name="reportes">reportes</string>
+
+    <string name="producto">producto</string>
+    <string name="categoria">categoria</string>
+    <string name="vendedor">vendedor</string>
+    <string name="cliente">cliente</string>
+    <string name="repProducto">repProducto</string>
+    <string name="repVenta">repVenta</string>
+    <string name="title_activity_plato_1">plato_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_plato_2">plato_2</string>
+    <string name="title_activity_plato_3">plato_3</string>
+    <string name="title_activity_plato_4">plato_4</string>
+    <string name="title_activity_plato_5">plato_5</string>
+    <string name="title_activity_plato_6">plato_6</string>
+</resources>
